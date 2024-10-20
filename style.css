@@ -36,9 +36,9 @@ body{
 }
 
 section:hover{
-    color: white;
-    background-color: rgb(240, 18, 18);
-    appearance: auto;
+    color: black;
+    background-color: palegreen;
+    transition: 2 2 2 2;
 }
 
 @media screen and (max-width: 426px) {
