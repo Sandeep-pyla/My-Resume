@@ -38,7 +38,6 @@ body{
 section:hover{
     color: black;
     background-color: palegreen;
-    transition: 2 2 2 2;
 }
 
 @media screen and (max-width: 426px) {
